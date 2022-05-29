@@ -1,0 +1,7 @@
+total 2
+-rw-r--r-- 1 yangyang 197121  0 5月  29 08:12 a.txtt
+drwxr-xr-x 1 yangyang 197121  0 5月  29 06:42 bin/
+drwxr-xr-x 1 yangyang 197121  0 5月  29 06:42 lib/
+-rw-r--r-- 1 yangyang 197121 97 5月  29 06:42 README.md
+drwxr-xr-x 1 yangyang 197121  0 5月  29 07:33 src/
+-rw-r--r-- 1 yangyang 197121 76 5月  29 06:42 test.txt
